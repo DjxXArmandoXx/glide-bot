@@ -1,0 +1,9 @@
+//-- modules
+const Discord = require('discord.js');
+
+//-- variables
+
+//-- event
+module.exports = async (client) => { //-- parameter client is REQUIRED, no exceptions
+
+};
